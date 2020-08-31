@@ -1,0 +1,427 @@
+<resources>
+    <string name="app_name">Udacity Tour Guide</string>
+    <string name="permissionLocationFine">android.permission.ACCESS_FINE_LOCATION</string>
+    <string name="constant_space">&#32;</string>
+    <string name="constant_plus">+</string>
+    <string name="constant_comma">,</string>
+    <string name="packageYelp">com.yelp.android</string>
+    <string name="packageGoogle">com.google.android.apps.maps</string>
+    <string name="urlGoogleMaps">http://maps.google.com/maps?q=</string>
+
+    <string name="category_one">Restaurants</string>
+    <string name="category_two">Seasonal Events</string>
+    <string name="category_three">Alcohol</string>
+    <string name="category_four">Nightlife</string>
+    <string name="category_five">Places to Relax</string>
+    <string name="category_six">Bloody Mary Tour</string>
+    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+    <string name="one_title_one">Capital Grille</string>
+    <string name="one_title_two">Carnevor</string>
+    <string name="one_title_three">Cubanitas</string>
+    <string name="one_title_four">Wards House of Prime</string>
+    <string name="one_title_five">Maders</string>
+    <string name="one_title_six">Wicked Hop</string>
+    <string name="one_title_seven">Odd Duck</string>
+    <string name="one_title_eight">Rodizio Grill</string>
+    <string name="one_title_nine">Wolf Peach</string>
+    <string name="one_title_ten">Smoke Shack</string>
+
+    <string name="one_desc_one">desc- Capital Grille</string>
+    <string name="one_desc_two">desc- Carnevor</string>
+    <string name="one_desc_three">desc- Cubanitas</string>
+    <string name="one_desc_four">desc- Wards House of Prime</string>
+    <string name="one_desc_five">desc- Maders</string>
+    <string name="one_desc_six">desc- Wicked Hop</string>
+    <string name="one_desc_seven">desc- Odd Duck</string>
+    <string name="one_desc_eight">desc- Rodizio Grill</string>
+    <string name="one_desc_nine">desc- Wolf Peach</string>
+    <string name="one_desc_ten">desc- Smoke Shack</string>
+
+    <string name="one_addr_one">310 W Wisconsin Ave, Milwaukee, WI 53203</string>
+    <string name="one_addr_two">718 N Milwaukee St, Milwaukee, WI 53202</string>
+    <string name="one_addr_three">728 N Milwaukee St, Milwaukee, WI 53202</string>
+    <string name="one_addr_four">540 E Mason St, Milwaukee, WI 53202</string>
+    <string name="one_addr_five">1041 N Old World 3rd St, Milwaukee, WI 53203</string>
+    <string name="one_addr_six">345 N Broadway, Milwaukee, WI 53202</string>
+    <string name="one_addr_seven">2352 S Kinnickinnic Ave, Milwaukee, WI 53207</string>
+    <string name="one_addr_eight">777 N Water St, Milwaukee, WI 53202</string>
+    <string name="one_addr_nine">1818 N Hubbard St, Milwaukee, WI 53212</string>
+    <string name="one_addr_ten">332 N Milwaukee St, Milwaukee, WI 53202</string>
+
+    <string name="one_coords_one">43.038961, -87.915866</string>
+    <string name="one_coords_two">43.039287, -87.906422</string>
+    <string name="one_coords_three">43.039492, -87.906449</string>
+    <string name="one_coords_four">43.040237, -87.904516</string>
+    <string name="one_coords_five">43.043848, -87.914637</string>
+    <string name="one_coords_six">43.034834, -87.907567</string>
+    <string name="one_coords_seven">43.001984, -87.903249</string>
+    <string name="one_coords_eight">43.040472, -87.909629</string>
+    <string name="one_coords_nine">43.054095, -87.908262</string>
+    <string name="one_coords_ten">43.034744, -87.905927</string>
+
+    <string name="one_web_one">https://www.yelp.com/biz/the-capital-grille-milwaukee</string>
+    <string name="one_web_two">https://www.yelp.com/biz/carnevor-steakhouse-moderne-milwaukee-2</string>
+    <string name="one_web_three">https://www.yelp.com/biz/cubanitas-milwaukee</string>
+    <string name="one_web_four">https://www.yelp.com/biz/wards-house-of-prime-milwaukee</string>
+    <string name="one_web_five">https://www.yelp.com/biz/maders-milwaukee-3</string>
+    <string name="one_web_six">https://www.yelp.com/biz/the-wicked-hop-milwaukee-2</string>
+    <string name="one_web_seven">https://www.yelp.com/biz/odd-duck-milwaukee</string>
+    <string name="one_web_eight">https://www.yelp.com/biz/rodizio-grill-milwaukee</string>
+    <string name="one_web_nine">https://www.yelp.com/biz/wolf-peach-milwaukee</string>
+    <string name="one_web_ten">https://www.yelp.com/biz/smoke-shack-milwaukee</string>
+    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+    <string name="two_title_one">Pride Fest</string>
+    <string name="two_title_two">Summerfest</string>
+    <string name="two_title_three">Festa Italiana</string>
+    <string name="two_title_four">Festa Mexicana</string>
+    <string name="two_title_five">Polish Fest</string>
+    <string name="two_title_six">German Fest</string>
+    <string name="two_title_seven">India Fest</string>
+    <string name="two_title_eight">Bastille Days</string>
+    <string name="two_title_nine">Irish Fest</string>
+
+    <string name="two_desc_one">desc- Pride Fest</string>
+    <string name="two_desc_two">desc- Summerfest</string>
+    <string name="two_desc_three">desc- Festa Italiana</string>
+    <string name="two_desc_four">desc- Festa Mexicana</string>
+    <string name="two_desc_five">desc- Polish Fest</string>
+    <string name="two_desc_six">desc- German Fest</string>
+    <string name="two_desc_seven">desc- India Fest</string>
+    <string name="two_desc_eight">desc- Bastille Days</string>
+    <string name="two_desc_nine">desc- Irish Fest</string>
+
+    <string name="two_addr_one">200 N Harbor Dr, Milwaukee, WI 53202</string>
+    <string name="two_addr_two">200 N Harbor Dr, Milwaukee, WI 53202</string>
+    <string name="two_addr_three">200 N Harbor Dr, Milwaukee, WI 53202</string>
+    <string name="two_addr_four">200 N Harbor Dr, Milwaukee, WI 53202</string>
+    <string name="two_addr_five">200 N Harbor Dr, Milwaukee, WI 53202</string>
+    <string name="two_addr_six">200 N Harbor Dr, Milwaukee, WI 53202</string>
+    <string name="two_addr_seven">200 N Harbor Dr, Milwaukee, WI 53202</string>
+    <string name="two_addr_eight">520 E Wells St, Milwaukee, WI 53202</string>
+    <string name="two_addr_nine">200 N Harbor Dr, Milwaukee, WI 53202</string>
+
+    <string name="two_coords_one">43.033108, -87.899477</string>
+    <string name="two_coords_two">43.033108, -87.899477</string>
+    <string name="two_coords_three">43.033108, -87.899477</string>
+    <string name="two_coords_four">43.033108, -87.899477</string>
+    <string name="two_coords_five">43.033108, -87.899477</string>
+    <string name="two_coords_six">43.033108, -87.899477</string>
+    <string name="two_coords_seven">43.033108, -87.899477</string>
+    <string name="two_coords_eight">43.041895, -87.904991</string>
+    <string name="two_coords_nine">43.033108, -87.899477</string>
+    
+    <string name="two_web_one">https://www.yelp.com/biz/summerfest-milwaukee</string>
+    <string name="two_web_two">https://www.yelp.com/biz/summerfest-milwaukee</string>
+    <string name="two_web_three">https://www.yelp.com/biz/festa-italiana-milwaukee-2</string>
+    <string name="two_web_four">https://www.yelp.com/biz/mexican-fiesta-milwaukee-2</string>
+    <string name="two_web_five">https://www.yelp.com/biz/polish-fest-milwaukee</string>
+    <string name="two_web_six">https://www.yelp.com/biz/german-fest-milwaukee-2</string>
+    <string name="two_web_seven">https://www.yelp.com/biz/indiafest-milwaukee</string>
+    <string name="two_web_eight">https://www.yelp.com/biz/bastille-days-milwaukee</string>
+    <string name="two_web_nine">https://www.yelp.com/biz/irish-fest-milwaukee</string>
+    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+    <string name="three_title_one">Milwaukee Brewing Company</string>
+    <string name="three_title_two">Lakefront Brewery</string>
+    <string name="three_title_three">Miller Brewering Co</string>
+    <string name="three_title_four">Sprecher Brewery</string>
+    <string name="three_title_five">Good City Brewing Company</string>
+    <string name="three_title_six">3rd Space Brewery</string>
+    <string name="three_title_seven">Bryant\'s Cocktail Lounge</string>
+    <string name="three_title_eight">The Safe House</string>
+
+    <string name="three_desc_one">desc- Milwaukee Brewing Company</string>
+    <string name="three_desc_two">desc- Lakefront Brewery</string>
+    <string name="three_desc_three">desc- Miller Brewering Co</string>
+    <string name="three_desc_four">desc- Sprecher Brewery</string>
+    <string name="three_desc_five">desc- Good City Brewing</string>
+    <string name="three_desc_six">desc- 3rd Space Brewery</string>
+    <string name="three_desc_seven">desc- Bryant\'s Cocktail Lounge</string>
+    <string name="three_desc_eight">desc- The Safe House</string>
+
+    <string name="three_addr_one">613 S 2nd St, Milwaukee, WI 53204</string>
+    <string name="three_addr_two">1872 N Commerce St, Milwaukee, WI 53212</string>
+    <string name="three_addr_three">4351 W State St, Milwaukee, WI 53208</string>
+    <string name="three_addr_four">701 W Glendale Ave, Milwaukee, WI 53209</string>
+    <string name="three_addr_five">2108 N Farwell Ave, Milwaukee, WI 53202</string>
+    <string name="three_addr_six">1505 W St Paul Ave, Milwaukee, WI 53233</string>
+    <string name="three_addr_seven">1579 S 9th St, Milwaukee, WI 53204</string>
+    <string name="three_addr_eight">779 N Front St, Milwaukee, WI 53202</string>
+
+    <string name="three_coords_one">43.024825, -87.912788</string>
+    <string name="three_coords_two">43.054950, -87.905531</string>
+    <string name="three_coords_three">43.042310, -87.967985</string>
+    <string name="three_coords_four">43.099987, -87.920085</string>
+    <string name="three_coords_five">43.057838, -87.887401</string>
+    <string name="three_coords_six">43.034473, -87.932105</string>
+    <string name="three_coords_seven">43.014322, -87.922876</string>
+    <string name="three_coords_eight">43.040584, -87.910211</string>
+    
+    <string name="three_web_one">https://www.yelp.com/biz/milwaukee-brewing-company-milwaukee</string>
+    <string name="three_web_two">https://www.yelp.com/biz/lakefront-brewery-milwaukee</string>
+    <string name="three_web_three">https://www.yelp.com/biz/miller-brewery-tour-milwaukee</string>
+    <string name="three_web_four">https://www.yelp.com/biz/sprecher-brewing-company-milwaukee</string>
+    <string name="three_web_five">https://www.yelp.com/biz/good-city-brewing-milwaukee</string>
+    <string name="three_web_six">https://www.yelp.com/biz/third-space-brewing-milwaukee</string>
+    <string name="three_web_seven">https://www.yelp.com/biz/bryants-cocktail-lounge-milwaukee</string>
+    <string name="three_web_eight">https://www.yelp.com/biz/safehouse-milwaukee</string>
+    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+    <string name="four_title_one">Red Rock</string>
+    <string name="four_title_two">Brother\'s Bar &amp; Grill</string>
+    <string name="four_title_three">Bar Louie</string>
+
+    <string name="four_title_four">Uglys</string>
+    <string name="four_title_fourpointfive">The Loaded Slate</string>
+    <string name="four_title_five">Pub Club</string>
+    <string name="four_title_six">Old German Beer Hall</string>
+    <string name="four_title_seven">Evolution</string>
+
+    <string name="four_title_eight">Hi Hat &amp; The Garage</string>
+    <string name="four_title_nine">Jack\'s American Pub</string>
+
+    <string name="four_title_ten">Taylor\'s</string>
+    <string name="four_title_eleven">Bad Genie</string>
+    <string name="four_title_twelve">Plum</string>
+    <string name="four_title_thirteen">Flannery\'s</string>
+    <string name="four_title_fourteen">Whiskey Bar</string>
+
+    <string name="four_title_fifteen">Von Trier</string>
+    <string name="four_title_sixteen">Vitucci\'s</string>
+    <string name="four_title_seventeen">G-Daddy\'s BBC Bar &amp; Grill</string>
+    <string name="four_title_eighteen">Rosati\'s</string>
+
+    <string name="four_title_nineteen">Milwaukee Ale House</string>
+    <string name="four_title_twenty">La Cage</string>
+    <string name="four_title_twentyone">Steny\'s</string>
+    <string name="four_title_twentytwo">Fluid</string>
+    <!-- ~~~~~~~~~~~~~~~~~~ -->
+    <string name="four_desc_one">desc- Red Rock</string>
+    <string name="four_desc_two">desc- Brother\'s Bar &amp; Grill</string>
+    <string name="four_desc_three">desc- Bar Louie</string>
+
+    <string name="four_desc_four">desc- Uglys</string>
+    <string name="four_desc_fourpointfive">desc- The Loaded Slate</string>
+    <string name="four_desc_five">desc- Pub Club</string>
+    <string name="four_desc_six">desc- Old German Beer Hall</string>
+    <string name="four_desc_seven">desc- Evolution</string>
+
+    <string name="four_desc_eight">desc- Hi Hat &amp; The Garage</string>
+    <string name="four_desc_nine">desc- Jack\'s American Pub</string>
+
+    <string name="four_desc_ten">desc- Taylor\'s</string>
+    <string name="four_desc_eleven">desc- Bad Genie</string>
+    <string name="four_desc_twelve">desc- Plum</string>
+    <string name="four_desc_thirteen">desc- Flannery\'s</string>
+    <string name="four_desc_fourteen">desc- Whiskey Bar</string>
+
+    <string name="four_desc_fifteen">desc- Von Trier</string>
+    <string name="four_desc_sixteen">desc- Vitucci\'s</string>
+    <string name="four_desc_seventeen">desc- G-Daddy\'s BBC</string>
+    <string name="four_desc_eighteen">desc- Rosati\'s</string>
+
+    <string name="four_desc_nineteen">desc- Milwaukee Ale House</string>
+    <string name="four_desc_twenty">desc- La Cage</string>
+    <string name="four_desc_twentyone">desc- Steny\'s</string>
+    <string name="four_desc_twentytwo">desc- Fluid</string>
+    <!-- ~~~~~~~~~~~~~~~~~~ -->
+    <string name="four_addr_one">1227 N Water St, Milwaukee, WI 53202</string>
+    <string name="four_addr_two">1213 N Water St, Milwaukee, WI 53202</string>
+    <string name="four_addr_three">1114 N Water St, Milwaukee, WI 53202</string>
+
+    <string name="four_addr_four">1125 N Old World 3rd St, Milwaukee, WI 53203</string>
+    <string name="four_addr_fourpointfive">1137 N Old World 3rd St, Milwaukee, WI 53203</string>
+    <string name="four_addr_five">1103 N Old World 3rd St, Milwaukee, WI 53203</string>
+    <string name="four_addr_six">1009 N Old World 3rd St, Milwaukee, WI 53203</string>
+    <string name="four_addr_seven">1023 N Old World 3rd St, Milwaukee, WI 53202</string>
+
+    <string name="four_addr_eight">1701 N Arlington Pl, Milwaukee, WI 53202</string>
+    <string name="four_addr_nine">1323 E Brady St, Milwaukee, WI 53202</string>
+
+    <string name="four_addr_ten">795 N Jefferson St, Milwaukee, WI 53202</string>
+    <string name="four_addr_eleven">789 N Jefferson St, Milwaukee, WI 53202</string>
+    <string name="four_addr_twelve">780 N Jefferson St, Milwaukee, WI 53202</string>
+    <string name="four_addr_thirteen">425 E Wells St, Milwaukee, WI 53202</string>
+    <string name="four_addr_fourteen">788 N Jackson St, Milwaukee, WI 53202</string>
+
+    <string name="four_addr_fifteen">2235 N Farwell Ave, Milwaukee, WI 53202</string>
+    <string name="four_addr_sixteen">1832 E North Ave, Milwaukee, WI 53202</string>
+    <string name="four_addr_seventeen">2022 E North Ave, Milwaukee, WI 53202</string>
+    <string name="four_addr_eighteen">2238 N Farwell Ave, Milwaukee, WI 53202</string>
+
+    <string name="four_addr_nineteen">233 N Water St, Milwaukee, WI 53202</string>
+    <string name="four_addr_twenty">801 S 2nd St, Milwaukee, WI 53204</string>
+    <string name="four_addr_twentyone">800 S 2nd St, Milwaukee, WI 53204</string>
+    <string name="four_addr_twentytwo">819 S 2nd St, Milwaukee, WI 53204</string>
+    <!-- ~~~~~~~~~~~~~~~~~~ -->
+    <string name="four_coords_one">43.046355, -87.911313</string>
+    <string name="four_coords_two">43.046145, -87.911310</string>
+    <string name="four_coords_three">43.044999, -87.910758</string>
+
+    <string name="four_coords_four">43.044920, -87.914587</string>
+    <string name="four_coords_fourpointfive">43.045172, -87.914562</string>
+    <string name="four_coords_five">43.044486, -87.914586</string>
+    <string name="four_coords_six">43.043242, -87.914637</string>
+    <string name="four_coords_seven">43.043527, -87.914645</string>
+
+    <string name="four_coords_eight">43.053052, -87.895115</string>
+    <string name="four_coords_nine">43.052843, -87.894690</string>
+
+    <string name="four_coords_ten">43.041041, -87.905687</string>
+    <string name="four_coords_eleven">43.040936, -87.905693</string>
+    <string name="four_coords_twelve">43.040725, -87.905330</string>
+    <string name="four_coords_thirteen">43.041126, -87.905857</string>
+    <string name="four_coords_fourteen">43.040938, -87.903993</string>
+
+    <string name="four_coords_fifteen">43.059942, -87.885808</string>
+    <string name="four_coords_sixteen">43.060276, -87.886968</string>
+    <string name="four_coords_seventeen">43.060275, -87.884974</string>
+    <string name="four_coords_eighteen">43.059938, -87.885399</string>
+
+    <string name="four_coords_nineteen">43.033443, -87.909264</string>
+    <string name="four_coords_twenty">43.022955, -87.912794</string>
+    <string name="four_coords_twentyone">43.023084, -87.912470</string>
+    <string name="four_coords_twentytwo">43.022754, -87.912741</string>
+    <!-- ~~~~~~~~~~~~~~~~~~ -->
+    <string name="four_web_one">https://www.yelp.com/biz/red-rock-saloon-milwaukee</string>
+    <string name="four_web_two">https://www.yelp.com/biz/brothers-bar-and-grill-milwaukee</string>
+    <string name="four_web_three">https://www.yelp.com/biz/bar-louie-milwaukee-3</string>
+
+    <string name="four_web_four">https://www.yelp.com/biz/uglys-milwaukee-2</string>
+    <string name="four_web_fourpointfive">https://www.yelp.com/biz/the-loaded-slate-milwaukee</string>
+    <string name="four_web_five">https://www.yelp.com/biz/the-pub-club-milwaukee</string>
+    <string name="four_web_six">https://www.yelp.com/biz/old-german-beer-hall-milwaukee</string>
+    <string name="four_web_seven">https://www.yelp.com/biz/evolution-milwaukee</string>
+
+    <string name="four_web_eight">https://www.yelp.com/biz/hi-hat-lounge-milwaukee-2</string>
+    <string name="four_web_nine">https://www.yelp.com/biz/jacks-american-pub-milwaukee</string>
+
+    <string name="four_web_ten">https://www.yelp.com/biz/taylors-milwaukee</string>
+    <string name="four_web_eleven">https://www.yelp.com/biz/bad-genie-milwaukee</string>
+    <string name="four_web_twelve">https://www.yelp.com/biz/plum-lounge-milwaukee</string>
+    <string name="four_web_thirteen">https://www.yelp.com/biz/flannerys-restaurant-milwaukee</string>
+    <string name="four_web_fourteen">https://www.yelp.com/biz/whiskey-bar-milwaukee</string>
+
+    <string name="four_web_fifteen">https://www.yelp.com/biz/von-trier-milwaukee</string>
+    <string name="four_web_sixteen">https://www.yelp.com/biz/vituccis-lounge-milwaukee</string>
+    <string name="four_web_seventeen">https://www.yelp.com/biz/g-daddys-bbc-bar-and-grill-milwaukee</string>
+    <string name="four_web_eighteen">https://www.yelp.com/biz/rosatis-pizza-sports-pub-milwaukee</string>
+
+    <string name="four_web_nineteen">https://www.yelp.com/biz/milwaukee-ale-house-milwaukee</string>
+    <string name="four_web_twenty">https://www.yelp.com/biz/la-cage-milwaukee</string>
+    <string name="four_web_twentyone">https://www.yelp.com/biz/stenys-tavern-and-grill-milwaukee</string>
+    <string name="four_web_twentytwo">https://www.yelp.com/biz/fluid-milwaukee</string>
+    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+    <string name="five_title_one">Milwaukee Public Market</string>
+    <string name="five_title_two">Cafe Benelux</string>
+    <string name="five_title_three">The Wicked Hop</string>
+    <string name="five_title_four">Colectivo on St. Paul</string>
+    <string name="five_title_five">Colectivo by the Lake</string>
+    <string name="five_title_six">Anodyne Coffee</string>
+    <string name="five_title_seven">The Riverwalk</string>
+    <string name="five_title_eight">Old World 3rd St</string>
+    <string name="five_title_nine">Marquette\'s Campus</string>
+    <string name="five_title_ten">UWM\'s Campus</string>
+    <string name="five_title_eleven">Cathedral Square</string>
+    <string name="five_title_twelve">Red Arrow Park</string>
+
+    <string name="five_desc_one">desc- Milwaukee Public Market</string>
+    <string name="five_desc_two">desc- Cafe Benelux</string>
+    <string name="five_desc_three">desc- The Wicked Hop</string>
+    <string name="five_desc_four">desc- Colectivo on St. Paul</string>
+    <string name="five_desc_five">desc- Colectivo by the Lake</string>
+    <string name="five_desc_six">desc- Anodyne Coffee</string>
+    <string name="five_desc_seven">desc- The Riverwalk</string>
+    <string name="five_desc_eight">desc- Old World 3rd St</string>
+    <string name="five_desc_nine">desc- Marquette\'s Campus</string>
+    <string name="five_desc_ten">desc- UWM\'s Campus</string>
+    <string name="five_desc_eleven">desc- Cathedral Square</string>
+    <string name="five_desc_twelve">desc- Red Arrow Park</string>
+
+    <string name="five_addr_one">400 N Water St, Milwaukee, WI 53202</string>
+    <string name="five_addr_two">346 N Broadway, Milwaukee, WI 53202</string>
+    <string name="five_addr_three">345 N Broadway, Milwaukee, WI 53202</string>
+    <string name="five_addr_four">223 E St Paul Ave, Milwaukee, WI 53202</string>
+    <string name="five_addr_five">1701 N Lincoln Memorial Dr, Milwaukee, WI 53202</string>
+    <string name="five_addr_six">224 W Bruce St, Milwaukee, WI 53204</string>
+    <string name="five_addr_seven">N Riverwalk Way, Milwaukee, WI 53202</string>
+    <string name="five_addr_eight">N Old World 3rd St, Milwaukee, WIx</string>
+    <string name="five_addr_nine">1442 W Wisconsin Ave, Milwaukee, WI 53233</string>
+    <string name="five_addr_ten">2200 E Kenwood Blvd, Milwaukee, WI 53211</string>
+    <string name="five_addr_eleven">520 E Wells St, Milwaukee, WI 53202</string>
+    <string name="five_addr_twelve">920 N Water St, Milwaukee, WI 53202</string>
+
+    <string name="five_coords_one">43.035137, -87.908495</string>
+    <string name="five_coords_two">43.034925, -87.907173</string>
+    <string name="five_coords_three">43.034823, -87.907570</string>
+    <string name="five_coords_four">43.034913, -87.907899</string>
+    <string name="five_coords_five">43.053959, -87.886572</string>
+    <string name="five_coords_six">43.025436, -87.913650</string>
+    <string name="five_coords_seven">43.033814, -87.909739</string>
+    <string name="five_coords_eight">43.043233, -87.914570</string>
+    <string name="five_coords_nine">43.039537, -87.931562</string>
+    <string name="five_coords_ten">43.078233, -87.882214</string>
+    <string name="five_coords_eleven">43.041790, -87.904986</string>
+    <string name="five_coords_twelve">43.042968, -87.909828</string>
+    
+    <string name="five_web_one">https://www.yelp.com/biz/milwaukee-public-market-milwaukee</string>
+    <string name="five_web_two">https://www.yelp.com/biz/cafe-benelux-milwaukee-2</string>
+    <string name="five_web_three">https://www.yelp.com/biz/the-wicked-hop-milwaukee-2</string>
+    <string name="five_web_four">https://www.yelp.com/biz/colectivo-coffee-milwaukee-5</string>
+    <string name="five_web_five">https://www.yelp.com/biz/colectivo-lakefront-milwaukee</string>
+    <string name="five_web_six">https://www.yelp.com/biz/anodyne-coffee-roasting-milwaukee-4</string>
+    <string name="five_web_seven">https://www.yelp.com/biz/riverwalk-milwaukee</string>
+    <string name="five_web_eight">https://www.yelp.com/biz/old-german-beer-hall-milwaukee</string>
+    <string name="five_web_nine">https://www.yelp.com/biz/alumni-memorial-union-marquette-university-milwaukee</string>
+    <string name="five_web_ten">https://www.yelp.com/biz/university-of-wisconsin-milwaukee-milwaukee</string>
+    <string name="five_web_eleven">https://www.yelp.com/biz/cathedral-square-park-milwaukee</string>
+    <string name="five_web_twelve">https://www.yelp.com/biz/red-arrow-park-milwaukee</string>
+    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+    <string name="six_title_one">Cafe Benelux</string>
+    <string name="six_title_two">The Wicked Hop</string>
+    <string name="six_title_three">The Loaded Slate</string>
+    <string name="six_title_four">Jackson\'s Blue Ribbon Pub</string>
+    <string name="six_title_five">Sobelman\'s</string>
+
+    <string name="six_desc_one">desc- Cafe Benelux</string>
+    <string name="six_desc_two">desc- The Wicked Hop</string>
+    <string name="six_desc_three">desc- The Loaded Slate</string>
+    <string name="six_desc_four">desc- Jackson\'s Blue Ribbon Pub</string>
+    <string name="six_desc_five">desc- Sobelman\'s</string>
+
+    <string name="six_addr_one">346 N Broadway, Milwaukee, WI 53202</string>
+    <string name="six_addr_two">345 N Broadway, Milwaukee, WI 53202</string>
+    <string name="six_addr_three">1137 N Old World 3rd St, Milwaukee, WI 53203</string>
+    <string name="six_addr_four">1203 N 10th St, Milwaukee, WI 53205</string>
+    <string name="six_addr_five">1601 W Wells St, Milwaukee, WI 53233</string>
+
+    <string name="six_coords_one">43.034925, -87.907173</string>
+    <string name="six_coords_two">43.034823, -87.907570</string>
+    <string name="six_coords_three">43.045165, -87.914577</string>
+    <string name="six_coords_four">43.045988, -87.924429</string>
+    <string name="six_coords_five">43.040150, -87.933096</string>
+
+    <string name="six_web_one">https://www.yelp.com/biz/cafe-benelux-milwaukee-2</string>
+    <string name="six_web_two">https://www.yelp.com/biz/the-wicked-hop-milwaukee-2</string>
+    <string name="six_web_three">https://www.yelp.com/biz/the-loaded-slate-milwaukee</string>
+    <string name="six_web_four">https://www.yelp.com/biz/jacksons-blue-ribbon-pub-downtown-milwaukee</string>
+    <string name="six_web_five">https://www.yelp.com/biz/sobelmans-milwaukee-2</string>
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+    <!-- data template for add'l lists-->
+    <string name="one_item_one"></string>
+    <string name="one_item_two"></string>
+    <string name="one_item_three"></string>
+    <string name="one_item_four"></string>
+    <string name="one_item_five"></string>
+    <string name="one_item_six"></string>
+    <string name="one_item_seven"></string>
+    <string name="one_item_eight"></string>
+    <string name="one_item_nine"></string>
+    <string name="one_item_ten"></string>
+    <string name="one_item_"></string>
+
+</resources>
